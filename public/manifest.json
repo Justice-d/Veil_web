@@ -1,0 +1,18 @@
+{
+  "name": "Veil - Anonymous Social Storytelling",
+  "short_name": "Veil",
+  "description": "The social network without faces. Share stories anonymously.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7C3AED",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/veil-logo-purple.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
